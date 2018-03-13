@@ -1,4 +1,4 @@
-var a = 100;
+﻿var a = 100;
 var b = "Nhat";
 var c = true;
 var d = { ho: "Nguyen", ten: "Nhat" };
@@ -10,8 +10,7 @@ var e = 101;
 //let bảo mật k toàn cục như var
 if (c) {
     console.log("True");
-}
-else {
+} else {
     console.log("False");
 }
 console.log("-----------FOR---------");
